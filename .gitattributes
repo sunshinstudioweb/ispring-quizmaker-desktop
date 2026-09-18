@@ -1,0 +1,10 @@
+# Generated on 2026-11-10
+# Configuration for git attributes
+# Project-specific overrides
+src/**/*.ts linguist-detectable
+*.svg text
+vendor/* linguist-vendored
+
+*.ico binary
+*.htm linguist-vendored
+*.tsx linguist-detectable
